@@ -1,1 +1,1 @@
-# SWE-3313-Pizza-Project-Repository-
+# SWE 3313 Pizza Project Repository
