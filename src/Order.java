@@ -26,7 +26,7 @@ public class Order extends Item {
     //Constructor
     public Order(Customer customer){
         orderId++;
-        customer.getCustomerID()
+        customer.getCustomerID();
     }
-
+    //remote test
 }
