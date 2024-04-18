@@ -8,7 +8,7 @@ public class Item {
 
     //Pizza and Drinks
     String pizzaSize;
-    String pizzaStyle;
+    String pizzaCrust;
     String Toppings;
 
     String drinkSize;
@@ -19,9 +19,9 @@ public class Item {
     String orderHistory;
 
     //Constructors
-    Item(String pSize, String pStyle, String toppings){
+    Item(String pSize, String pCrust, String toppings){
         this.pizzaSize = pSize;
-        this.pizzaStyle = pStyle;
+        this.pizzaCrust = pCrust;
         this.Toppings = toppings;
     }
 
@@ -29,4 +29,7 @@ public class Item {
         this.drinkSize = dSize;
         this.drinkType = dType;
     }
+
+    //Methods
+    
 }

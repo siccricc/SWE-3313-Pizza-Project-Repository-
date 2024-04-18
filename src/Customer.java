@@ -23,6 +23,8 @@ public class Customer {
 
     Customer(String name, int phoneNumber, String password, String street,
         String city, String state, int postal, String country) {
+        customerID++;
+        
         this.username = name;
         this.phoneNumber = phoneNumber;
         this.password = password;
