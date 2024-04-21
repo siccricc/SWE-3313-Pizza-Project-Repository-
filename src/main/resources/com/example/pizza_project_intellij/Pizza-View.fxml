@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="458.0" prefWidth="770.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <MenuBar prefHeight="25.0" prefWidth="741.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <menus>
+            <Menu mnemonicParsing="false" text="Home" />
+         </menus>
+         <effect>
+            <Bloom threshold="0.78" />
+         </effect>
+      </MenuBar>
+      <Button fx:id="deliveryButton" layoutX="150.0" layoutY="374.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="140.0" text="Delivery" />
+      <Button fx:id="takeOutButton" layoutX="479.0" layoutY="374.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="140.0" text="Take Out" />
+      <Text fill="WHITE" layoutX="155.0" layoutY="122.0" stroke="BLACK" strokeType="OUTSIDE" strokeWidth="5.0" text="Mom &amp; Pop" wrappingWidth="484.13673400878906">
+         <font>
+            <Font name="Bauhaus 93" size="89.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
