@@ -11,7 +11,7 @@
 <?import javafx.scene.text.Text?>
 <?import javafx.scene.text.TextFlow?>
 
-<AnchorPane prefHeight="458.0" prefWidth="770.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane fx:id="checkoutAnchorPane" prefHeight="458.0" prefWidth="770.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <Text fill="WHITE" layoutX="147.0" layoutY="83.0" stroke="BLACK" strokeType="OUTSIDE" strokeWidth="5.0" text="Mom &amp; Pop" textAlignment="CENTER" wrappingWidth="484.13673400878906">
          <font>
@@ -47,7 +47,7 @@
                   <ChoiceBox fx:id="drinkType" layoutX="269.0" layoutY="115.0" prefHeight="25.0" prefWidth="114.0" />
                   <Button fx:id="pizzaEnter" layoutX="22.0" layoutY="206.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="114.0" text="Enter" />
                   <Button fx:id="drinkEnter" layoutX="271.0" layoutY="160.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="114.0" text="Enter" />
-                  <Button fx:id="pizzaEnter1" layoutX="143.0" layoutY="276.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="134.0" text="Pay Now" />
+                  <Button fx:id="paynowButton" layoutX="143.0" layoutY="276.0" mnemonicParsing="false" prefHeight="36.0" prefWidth="134.0" text="Pay Now" />
                </children>
             </AnchorPane>
             <AnchorPane prefHeight="200.0" prefWidth="200.0">

@@ -19,7 +19,7 @@ public class Customer {
     
 
     //Constructors
-    Customer() {
+    public Customer() {
         customerID++;
     }
 
