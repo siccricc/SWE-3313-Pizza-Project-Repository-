@@ -11,7 +11,7 @@
 <?import javafx.scene.text.Text?>
 <?import javafx.scene.text.TextFlow?>
 
-<AnchorPane prefHeight="458.0" prefWidth="770.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane fx:id="paymentAnchorPane" prefHeight="458.0" prefWidth="770.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.pizza_project_intellij.Controllers.PizzaViewPayscreen">
    <children>
       <Text fill="WHITE" layoutX="147.0" layoutY="83.0" stroke="BLACK" strokeType="OUTSIDE" strokeWidth="5.0" text="Mom &amp; Pop" textAlignment="CENTER" wrappingWidth="484.13673400878906">
          <font>

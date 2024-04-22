@@ -12,7 +12,7 @@ public class PizzaApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         Parent root = FXMLLoader.load(getClass().getResource("Pizza-View.fxml"));
-        stage.setScene(new Scene(root, 800, 500));
+        stage.setScene(new Scene(root, 780, 500));
         stage.show();
     }
 
