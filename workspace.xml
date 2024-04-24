@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Pizza_Project_Intellij:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3eb0ed76-9603-4b78-acc3-0f2db75e2e73" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fQ7HJLfEgVwiQidFCwdjdyB7f5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.JavaFXPizzaApp.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.PizzaApplication.executor": "Run",
+    "JUnit.All in Pizza_Project_Intellij.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "22",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Program Files/Javafx/javafx-sdk-22.0.1/bin/vcruntime140_1.dll",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.19031142",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.pizza_project_intellij" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lidaw\IdeaProjects\Pizza_Project_Intellij\src\main\java\com\example\pizza_project_intellij" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lidaw\IdeaProjects\Pizza_Project_Intellij\src\main\resources" />
+      <recent name="C:\Users\lidaw\IdeaProjects\Pizza_Project_Intellij\src\main\Images" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.pizza_project_intellij" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="$ mvn clean javafx:jlink" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JavaFXPizzaApp">
+    <configuration name="JavaFXPizzaApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.pizza_project_intellij.PizzaApplication" />
+      <module name="Pizza_Project_Intellij" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Pizza_Project_Intellij" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pizza_Project_Intellij" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaFXPizzaApp" />
+      <item itemvalue="JUnit.All in Pizza_Project_Intellij" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Pizza_Project_Intellij" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eb0ed76-9603-4b78-acc3-0f2db75e2e73" name="Changes" comment="" />
+      <created>1713721362952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713721362952</updated>
+    </task>
+    <servers />
+  </component>
+</project>
